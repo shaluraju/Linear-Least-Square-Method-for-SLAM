@@ -18,7 +18,7 @@ The Robot(car) moves in a Hallway which detects three landmarks with its Laser R
 * There is no environmental process noise influencing the robot’s motion – it moves in a completely deterministic manner, exactly as intended.
 
 ## Results
-
+Error between the actual position and the Linear Least Square Estimated Position is plotted with and without landmarks during the Robot Traversal
 ![image](https://user-images.githubusercontent.com/67613439/125937114-80ec19a5-b7dc-49ac-b8d3-630d2eff7ebb.png)
 ![image](https://user-images.githubusercontent.com/67613439/125937140-f8ad734d-21df-446b-b2e8-145ff6c2c586.png)
 
