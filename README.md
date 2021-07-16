@@ -16,3 +16,9 @@ The Robot(car) moves in a Hallway which detects three landmarks with its Laser R
 * The robot’s odometry measurements are corrupted with zero-mean, additive Gaussian white noise with standard deviation 0.1 m/s.
 * The robot’s range measurements to landmarks (when the landmarks are within range) are corrupted with zero-mean, additive Gaussian white noise with standard deviation 0.01 m.
 * There is no environmental process noise influencing the robot’s motion – it moves in a completely deterministic manner, exactly as intended.
+
+## Results
+
+![image](https://user-images.githubusercontent.com/67613439/125937114-80ec19a5-b7dc-49ac-b8d3-630d2eff7ebb.png)
+![image](https://user-images.githubusercontent.com/67613439/125937140-f8ad734d-21df-446b-b2e8-145ff6c2c586.png)
+
